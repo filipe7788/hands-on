@@ -1,1 +1,1 @@
-# hands-on - lista de participantes
+# hands-on: lista de participantes
